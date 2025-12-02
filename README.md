@@ -4,8 +4,8 @@
 <!-- STATS_START -->
 ## Latest Statistics
 
-- **Last Update**: 2025-12-01
-- **Total Domains**: 264,383
+- **Last Update**: 2025-12-02
+- **Total Domains**: 407,872
 - **Files**: 1
 
 <!-- STATS_END -->
